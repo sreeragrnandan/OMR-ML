@@ -1,0 +1,32 @@
+Although I had marked some languages as unfamiliar  I am willing to learn if it's required.
+I am confident that I can learn a new language quickly, it takes a maximum of 1 week to learn the basics of new language and start to work with it.
+
+I had been a full stack web developer intern.
+I had selected as Explore ML Facilitator of Google AI India(Bengaluru) I had hosted workshops on Machine Learning in my respected institution as Resource person.
+
+To describe my technical skill I am mentioning some of my projects works:
+
+1)Me and my team developed a digital library attendance system for our institution  using HTML and PHP , before the implementation of the system a class took 45 minutes to enter Library (as students have to write his name, branch, division, Roll Number, arrival time to enter into the library) now it takes only 5 minutes for entire class of 50 students.
+                                   We have a barcode in our college ID card we scan it to get student details and arrival time is taken from the server. It was not an academic project we did it because we felt annoying as more time is wasted in standing in the queue rather than inside the library.
+
+It was my first live project I know its not a big one but the appreciation from the students for making this change gave me the motivation to do more.
+Languages used HTML, PHP and MySQL
+GitHub Link: https://github.com/sreeragrnandan/LIBRARY
+
+2)I had developed an application for patients who cannot speak and move their body (like fully paralysed patient) to contact or make the conversion with other people. One day I noticed a boy who was suffering from paralysis  was looking at children who were playing in front of his house he can only move his eyelid (not even his lips) so I made a system to recognize eye blink and detect  specific pattern in eye blink and do require operation according to it (such as If 5 eye blink in 2 sec then call mother in phone; If there is 3 eye blink  then say some specific words or alert he needs some water etc..).
+ 
+Languages used Python and MySQL
+GitHub Link::-https://github.com/sreeragrnandan/The-Eye
+
+3)Digital Handbook for my institution which facilitates students to stay in touch with teachers, helps find their study materials faster, makes teachers works easier. 
+
+Language used HTML,Python(django),MySQL
+GitHub Link::-https://github.com/sreeragrnandan/HANDBOOK
+
+4)Criminal Capturing system:- which uses Facial Recognition and can track a person where ever he goes inside a building (or connected network of cameras), Update his location in a website and automatically sends E-mails to the administrator(or Police) when he is moving from one location to another. (inspired by The God's Eye Fast and Furious 7)
+
+Languages used Python and MySQL.
+GitHub Link::-https://github.com/sreeragrnandan/FACE-RECOGNITION
+
+*There are other cool projects feel free to check it out at:
+https://github.com/sreeragrnandan
